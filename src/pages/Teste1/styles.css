@@ -1,0 +1,25 @@
+.Bank-notes {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+.Notes {
+    padding: 18px;
+    width: 20px;
+    margin: 9px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #023000;
+    border: 2px solid #008600;
+}
+
+.Result-board {
+    color: #00bb00;
+}
+
+.Input-number {
+    display: grid;
+    justify-items: center;
+}
