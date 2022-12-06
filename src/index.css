@@ -42,6 +42,16 @@ button {
   background-color: #a9eafc;
 }
 
+a {
+  text-decoration: none;
+  color: #f0f8ff;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #61dafb;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
