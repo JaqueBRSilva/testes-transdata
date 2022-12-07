@@ -70,6 +70,7 @@ const Teste1 = () => {
             <label htmlFor="">Digite um valor</label>
             <input
                type="number"
+               autoFocus
                min={1}
                onChange={e => setAmount(e.target.value)}
                value={amount}
